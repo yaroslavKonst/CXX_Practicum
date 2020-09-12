@@ -1,2 +1,2 @@
-# CXX_Practicum
+# C++_Practicum
 Repository for C++ practicum tasks.
